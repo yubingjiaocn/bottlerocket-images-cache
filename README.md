@@ -1,3 +1,5 @@
+# This repository is migrated to https://github.com/aws-samples/bottlerocket-images-cache
+
 # Caching Container Images for AWS Bottlerocket Instances
 The purpose of this sample is to reduce the boot time of containers with large images by caching the images in the data volume of Bottlerocket OS.
 
